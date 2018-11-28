@@ -34,7 +34,7 @@ class Globals:
     turn = False
     turn2 = False
     lose_open = False
-    critical = random.randint(0,2)
+
 
 
 
